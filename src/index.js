@@ -3,9 +3,9 @@ import "./index.css"
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
-import Home from "./Views/Home/home"
-import About from "./Views/About/about"
-import Contact from "./Views/Contact/contact"
+import Home from "./Views/Home/Home"
+import About from "./Views/About/About"
+import Contact from "./Views/Contact/Contact";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -15,7 +15,7 @@ const router = createBrowserRouter([
     element: <Home/>,
   },
   {
-    path: '/cbout',
+    path: '/about',
     element: <About/>,
   },
   {
