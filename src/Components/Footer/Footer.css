@@ -1,11 +1,13 @@
-.Footer-container{
-    position: relative;
-    width: 100%;
-    bottom: 0;
+.Footer-container {
     background-color: #52D681;
     padding: 0;
     margin: 0;
     height: 70px;
+    width: 100%;
+    text-align: center;
+    margin-top: auto;
+    bottom: 0;
+    margin-top: 80px;
 }
 
 .Footer-line{
@@ -13,5 +15,5 @@
     color: white;
     font-style: normal;
     text-align: center;
-    padding: 20px;
+    padding: 15px;
 }

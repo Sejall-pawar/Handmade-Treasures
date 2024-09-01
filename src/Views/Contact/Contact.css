@@ -1,6 +1,7 @@
 .contact-head{
     color: #00AD7C;
     text-align: center;
+    margin: 30px;
 }
 
 .head-tagline{
@@ -22,7 +23,7 @@
 }
 
 .contact-info{
-    font-size: 15px;
+    font-size: 20px;
     margin-left: 10px;
 }
 
@@ -35,7 +36,7 @@
 }
 
 .sub-container{
-    height: 150px;
+    height: 250px;
     width: 350px;
     border: 2px solid #00AD7C;
     border-radius: 3px;

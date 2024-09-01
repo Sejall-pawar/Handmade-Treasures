@@ -6,7 +6,7 @@ import "./about.css"
 import creativity from "./Creativity.png"
 import quality from "./Quality.png"
 import community from "./Quality.png"
-import {ABOUT_TITLE} from "./../../config/Data"
+import {ABOUT_TITLE, THEME} from "./../../config/Data"
 
 function about() {
   return (
