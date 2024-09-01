@@ -1,0 +1,17 @@
+.Footer-container{
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    background-color: #52D681;
+    padding: 0;
+    margin: 0;
+    height: 70px;
+}
+
+.Footer-line{
+    font-size: 25px;
+    color: white;
+    font-style: normal;
+    text-align: center;
+    padding: 20px;
+}

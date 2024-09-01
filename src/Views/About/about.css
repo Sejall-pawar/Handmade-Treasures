@@ -1,0 +1,28 @@
+.keypoints{
+    height: 300px;
+    width: 300px;
+    border: 2px solid #00AD7C;
+    border-radius: 50%;
+    background-color: #B5FF7D;
+}
+
+.values-img{
+    display: block;
+    height: 150px;
+    width: 150px;
+    margin: 10px auto;
+    border-radius: 50%;
+}
+
+.value-name{
+    text-align: center;
+    margin: 5px auto;
+    color:  #00AD7C;
+    font-size: 30px;
+}
+
+.value-decription{
+    text-align: center;
+    margin: 5px 25px;
+    font-size: 15px;
+}

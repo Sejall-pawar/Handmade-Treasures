@@ -1,0 +1,32 @@
+
+.product-container{
+    height: 380px;
+    width: 270px;
+    border: 2px solid #00AD7C;
+    border-radius: 5px;
+    margin: 10px 20px;
+    background-color: #B5FF7D;
+}
+.product-container:hover{
+    height: 390px;
+    border: none;
+}
+.product-img{
+    height: 200px;
+    width: 170px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+
+.product-name{
+    text-align: center;
+    margin: 10px auto;
+    color:  #00AD7C;
+    font-size: 30px;
+}
+
+.product-description{
+    text-align: justify;
+    margin: 5px 25px;
+}
