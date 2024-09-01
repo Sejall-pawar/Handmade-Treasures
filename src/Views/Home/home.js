@@ -1,13 +1,13 @@
 import React from 'react'
-import Header from "./../../Components/Header/Header";
-import Footer from "./../../Components/Footer/Footer";
+import Header from "../../Components/Header/Header";
+import Footer from "../../Components/Footer/Footer";
 import "./Home.css"
 import "./../../index.css"
 import jwellery from "./jwellery.jpg"
 import homedecor from "./homedecor.jpg"
 import apparel from "./apparel.jpg"
 import gifts from "./gifts.jpg"
-import {MAIN_TITLE , THEME} from "./../../config/Data"
+import {MAIN_TITLE , THEME} from "../../config/Data"
 
 function home() {
   return (
