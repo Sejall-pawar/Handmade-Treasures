@@ -1,8 +1,8 @@
 import React from 'react'
-import Header from "./../../Components/Header/Header";
+import Header from "../../Components/Header/Header";
 import "./Contact.css"
 import Footer from '../../Components/Footer/Footer';
-import {THEME} from "./../../config/Data"
+import {THEME} from "../../config/Data"
 
 function contact() {
   return (

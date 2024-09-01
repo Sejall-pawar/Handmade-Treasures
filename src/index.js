@@ -5,7 +5,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 import Home from "./Views/Home/Home"
 import About from "./Views/About/About"
-import Contact from "./Views/Contact/Contact";
+import Contact from "./Views/Contact/contact";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
