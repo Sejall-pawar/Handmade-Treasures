@@ -1,5 +1,38 @@
 body{
+    min-height: 100vh;
     margin: 0;
     padding: 0;
-    background-color: #ffe6f2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    background-color: #fcf8d2;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#root {
+    flex: 1;
+}
+.tagline{
+    color: #00AD7C;
+    text-align: center;
+}
+
+.tag-para{
+    text-align: center;
+    margin: 10px 250px;
+    color: black;
+}
+
+.explore-tag{
+    text-align: center;
+    color: #00AD7C;
+ }
+
+ .main-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
 }
