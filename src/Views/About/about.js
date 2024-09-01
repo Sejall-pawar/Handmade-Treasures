@@ -1,12 +1,12 @@
 import React from 'react'
-import Header from "./../../Components/Header/Header";
-import Footer from "./../../Components/Footer/Footer";
+import Header from "../../Components/Header/Header";
+import Footer from "../../Components/Footer/Footer";
 import "./../../index.css"
 import "./about.css"
 import creativity from "./Creativity.png"
 import quality from "./Quality.png"
 import community from "./Quality.png"
-import {ABOUT_TITLE, THEME} from "./../../config/Data"
+import {ABOUT_TITLE, THEME} from "../../config/Data"
 
 function about() {
   return (
